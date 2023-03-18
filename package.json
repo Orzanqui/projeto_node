@@ -1,0 +1,19 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "node 17-03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orzanqui/projeto_node.git"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orzanqui/projeto_node/issues"
+  },
+  "homepage": "https://github.com/Orzanqui/projeto_node#readme"
+}
